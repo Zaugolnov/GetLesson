@@ -9,5 +9,7 @@ public class Main {
 
         System.out.println("how are you?");
 
+
+        Fox alisa = new Fox("Alisa");
     }
 }
