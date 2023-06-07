@@ -11,5 +11,8 @@ public class Main {
 
 
         Fox alisa = new Fox("Alisa");
+
+        Lion simba = new Lion("Simba");
+
     }
 }
