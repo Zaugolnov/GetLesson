@@ -7,5 +7,7 @@ public class Main {
 
         System.out.println(" hello from MAIN");
 
+        System.out.println("how are you?");
+
     }
 }
